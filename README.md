@@ -71,3 +71,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+=======
+# caffinnovate-electro
+Caffinnovators website showcasing electronics, IoT, and robotics projects for engineering students.
+>>>>>>> de45eaeaa1e820b5d5881cab5519936a36797e33
