@@ -13,6 +13,10 @@ const navLinks = [
   { to: "/contact", label: "Contact" },
 ];
 
+
+
+
+
 const Navbar = () => {
   const [open, setOpen] = useState(false);
   const location = useLocation();

@@ -12,6 +12,9 @@ const ProjectCard = ({ title, image, category }: ProjectCardProps) => (
       <img src={image} alt={title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
     </div>
     <div className="p-4">
+
+
+      
       {category && <span className="text-xs font-medium text-secondary uppercase tracking-wider">{category}</span>}
       <h3 className="font-heading font-semibold text-card-foreground mt-1 mb-3">{title}</h3>
       <Link

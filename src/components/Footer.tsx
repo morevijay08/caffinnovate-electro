@@ -8,6 +8,11 @@ const Footer = () => (
         <h3 className="font-heading text-xl font-bold mb-3">
           Caff<span className="text-accent">innovators</span>
         </h3>
+
+
+
+
+        
         <p className="text-primary-foreground/70 text-sm leading-relaxed">
           Custom Electronics Projects & Documentation for Engineering Students.
         </p>
